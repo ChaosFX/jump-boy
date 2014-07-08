@@ -1,0 +1,10 @@
+body {
+  background-color: #333;
+}
+
+#jump-boy {
+  border: 2px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
